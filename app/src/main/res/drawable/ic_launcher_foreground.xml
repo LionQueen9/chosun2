@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Royal Sillok Book Outline / Cover -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M28,26 h52 c3,0 5,2 5,5 v46 c0,3 -2,5 -5,5 h-52 c-3,0 -5,-2 -5,-5 v-46 c0,-3 2,-5 5,-5 z" />
+
+    <!-- Inner Parchment Book Pages -->
+    <path
+        android:fillColor="#FDFBF7"
+        android:pathData="M32,30 h44 v44 h-44 z" />
+
+    <!-- Classical Korean Character Binding Stripes -->
+    <path
+        android:fillColor="#8B1E1E"
+        android:pathData="M32,30 h6 v44 h-6 z" />
+
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M44,36 h26 v4 h-26 z M44,44 h26 v4 h-26 z M44,52 h26 v4 h-26 z M44,60 h18 v4 h-18 z" />
+
+    <!-- Golden Royal Crest Emblem Pin -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,18 L58,24 L64,24 L59,28 L61,34 L54,30 L47,34 L49,28 L44,24 L50,24 z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "조선왕조실록 검색",
+  "description": "조선왕조실록 키워드 검색, 역사 장소 구글 맵 지도, 연관 이미지 및 SNS 공유 연동 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
